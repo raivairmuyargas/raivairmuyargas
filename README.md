@@ -10,9 +10,13 @@
 **Skillsets:**
 
 -HTML
+
 -JavaScript
+
 -SQL
+
 -Databases
+
 -UI/UX Design
 
 **Contact.**
