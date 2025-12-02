@@ -7,7 +7,7 @@
 **Certification.** - SQL and Relational Databases 101 — [[View certificate](https://courses.cognitiveclass.ai/certificates/588e6a94430d4794a561850262f47d13)] 
     
 
-## Skillsets
+**Skillsets:**
 
 -HTML
 -JavaScript
