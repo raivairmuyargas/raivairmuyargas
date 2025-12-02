@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I am John Raivair Muyargas
+**Name.** John Raivair B. Muyargas
+**Education.** 2nd-year BSIT, New Era University
+**Certification.**
+- SQL and Relational Databases 101 — [[View certificate](https://courses.cognitiveclass.ai/certificates/588e6a94430d4794a561850262f47d13)] 
+    
+## Skillsets
+-HTML
+-JavaScript
+-SQL
+-Databases
+-UI/UX Design
 
-<!--
-**raivairmuyargas/raivairmuyargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact.**
+-Email: raivairm@gmail.com
+-Phone: 09757815004
