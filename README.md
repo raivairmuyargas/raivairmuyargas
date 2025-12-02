@@ -8,7 +8,6 @@
     
 
 **Skillsets:**
-
 -HTML
 -JavaScript
 -SQL
