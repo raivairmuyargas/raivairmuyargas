@@ -1,4 +1,4 @@
-# Hi, I am John Raivair Muyargas
+# Hi, I am John Raivair Muyargas, a dedicated and motivated individual with a growing passion for technology and innovation. I have a strong interest in coding and database management, and I enjoy taking on challenges that push me to think critically and solve problems efficiently.
 
 **Name.** John Raivair B. Muyargas
 
